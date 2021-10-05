@@ -1,6 +1,6 @@
 @echo off
 echo ;!@Install@!UTF-8! > config.txt
-echo ExtractTitle="EyeQ 3.3 (InfiniteMind)"
+echo ExtractTitle="EyeQ 3.3 (InfiniteMind)" >> config.txt
 echo ExtractDialogWidth="1" >> config.txt
 echo ExtractPathWidth="1" >> config.txt
 echo GUIFlags="32+512" >> config.txt
