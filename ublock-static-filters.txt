@@ -1,2 +1,0 @@
-fintel.io##+js(nobab)
-fintel.io##+js(nosiif, visibility, 1000)
